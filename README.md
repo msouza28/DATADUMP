@@ -8,24 +8,19 @@
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Matheus Emiliano</a>, <a href="https://www.linkedin.com/in/victorbarq/">João Albuquerque</a>, <a href="https://www.linkedin.com/in/victorbarq/">Isaac Santos</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>.   
 
 ## Descrição
 
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+  Projeto desenvolvido por <a href="http://www.nyphotographic.com/">Matheus Emiliano</a>  - <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"> João Albuquerque</a> - <a href="http://pix4free.org/">Isaac Santos</a>
 </p>
 
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+DataDump é um projeto de Internet das Coisas em junção com a resolução 11 dos 17 Objetivos de Desenvolvimento Sustentável da ONU.
+Através da utilização de um ESP-32, Sensores Ultrassonicos, Célula de Carga e uma lixaria o projeto tem a finalizade de conseguir registrar os dados de volumetria dessa lixeira. A partir disso é possivel coletar a densidade de lixo que é descartado em locais especificos em que a lixeira se encontrar. Tais dados podem ser de grande importancia para o Estado conseguir mensurar a melhor maneira de intervir no processo de coleta das cidades e regiões, contribuindo para que o descarte inadequado e outras possiveis intervenções sejam um avanço no processo de tornar as cidades e os assentamentos humanos mais inclusivos, seguros, resilientes e sustentáveis, sendo essa a expectativa da décima primeira resolução das ODS. 
 
 ## 🛠 Estrutura de pastas
 
@@ -99,19 +94,7 @@ Coloque código do prompt de comnando se for necessário
 
 ## 🗃 Histórico de lançamentos
 
-A cada atualização os detalhes devem ser lançados aqui.
-
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
+* 0.0.1 - 31/10/2023
     * Trabalho em andamento
 
 ## 📋 Licença/License
